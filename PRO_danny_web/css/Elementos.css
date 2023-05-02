@@ -1,0 +1,77 @@
+.header {
+   
+    text-align: center;
+    
+    background-image: url(../img/fondo3.gif);
+    height: 100px; 
+    width: 1265px;  
+    
+    background-size: cover;
+    font-family: monospace;
+    border-radius: 10px;
+  }
+
+  
+ 
+  td{
+    border-radius: 10px;
+ 
+  }
+  tr{
+    font-family: monospace;
+ 
+  }
+  h1{
+    color: aliceblue;
+  }
+  h3{
+    color: aliceblue;
+  }
+  h4{
+    font-family: monospace;
+  }
+  .menuTabla{
+    width: 100%;
+    height: 100%;
+    border-color: rgb(232, 232, 240);
+    /*border-collapse: collapse;*/
+    Text-align:center;
+    border-radius: 10px;
+  }
+  .a{
+    color: white;
+  }
+  .tablaInfo{
+    width: 100%;
+    height: 100%;
+    
+  }
+
+  .html{
+    background-color: black;
+  }
+  .footer{
+    /*border: 5px solid #14dddd;*/
+    text-align: center;
+    background-color: #004f45;
+    border-radius: 10px;
+    color: white;
+    
+  }
+  .publicidad{
+    background-image: url(../img/logo-universidad-santo-tomas.jpg);
+    height: 420px;
+    width: 4200px; 
+    background-size: cover;
+    
+  }
+  .InfoPersonal{
+    text-align:center;
+    background-size: cover;
+    background-color: #004f45;
+    color: white;
+  }
+  .tituloYoSoy{
+    text-align:center;
+    color: white;
+  }
